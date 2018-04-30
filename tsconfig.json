@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+	"target": "es5",
+	"preserveConstEnums": true,
+	"sourceMap": true,
+	"outDir": "./dist",
+	"allowJs": true
+  },
+	"include": [
+		"./src/**/*"
+  ]
+}
