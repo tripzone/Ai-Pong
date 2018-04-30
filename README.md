@@ -11,3 +11,5 @@ npm run start
 docker build -t pong .
 docker run -p 8080:8080 -t pong
 ```
+
+Built in collaboration with Geroge Jose, https://github.com/G2Jose
